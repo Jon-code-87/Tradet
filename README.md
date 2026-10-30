@@ -1,0 +1,2 @@
+# Tradet
+Luodaan web portfolio
