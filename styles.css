@@ -1,4 +1,6 @@
 img {
-    width: 150px;
-    height: 100px;
+  width: 263px;
+  height: 352px;
+  object-fit: cover;
+  border-radius: 12px;
 }
