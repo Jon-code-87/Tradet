@@ -43,3 +43,11 @@ ul li a.active {
 ul li a:hover {
   background-color: purple;
 }
+
+
+.persona img {
+  width: 500px;
+  height: 400px;
+
+}
+
