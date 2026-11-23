@@ -84,6 +84,10 @@ p {
     font-size: 20px;
     text-align: center;
     font-family: 'Playfair Display', serif;
+        max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.6;
 }
 
 h4 {
