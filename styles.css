@@ -60,3 +60,7 @@ ul li a:hover {
   height: 700px;
 }
 
+h1 {
+    font-size: 48px;
+    text-align: center;
+}
