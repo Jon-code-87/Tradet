@@ -80,3 +80,25 @@ h2 {
     font-family: 'Playfair Display', serif;
 }
 
+p {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+h4 {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
